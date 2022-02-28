@@ -13662,6 +13662,7 @@ input::placeholder {
         font-size: 1.5em;
         color: #64BABF; }
 
+/*----------------首頁開始-----------------*/
 .wrapper[data-bg="index"] {
   min-height: 100vh;
   background-image: url("../images/index-bg.png") center top;
@@ -13784,6 +13785,7 @@ marquee {
       .tag-list-img {
         width: 30px; } }
 
+/*----------------內頁開始-----------------*/
 .emergency-call {
   display: -webkit-box;
   display: -ms-flexbox;
