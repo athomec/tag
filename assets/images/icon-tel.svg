@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
+  <g id="icon-tel" transform="translate(-489 -811)">
+    <g id="phone_black_24dp" transform="translate(491 813)">
+      <path id="Path_17" data-name="Path 17" d="M0,0H12V12H0Z" fill="none"/>
+      <path id="Path_18" data-name="Path 18" d="M4.908,7.107a7.986,7.986,0,0,0,3.474,3.474l1.16-1.16a.524.524,0,0,1,.538-.127,6.014,6.014,0,0,0,1.882.3.529.529,0,0,1,.527.527v1.84a.529.529,0,0,1-.527.527A8.962,8.962,0,0,1,3,3.527.529.529,0,0,1,3.527,3H5.372a.529.529,0,0,1,.527.527,5.989,5.989,0,0,0,.3,1.882.529.529,0,0,1-.132.538Z" transform="translate(-1.745 -1.745)" fill="#63babf"/>
+    </g>
+    <rect id="Rectangle_137" data-name="Rectangle 137" width="15" height="15" transform="translate(489 811)" fill="none"/>
+  </g>
+</svg>

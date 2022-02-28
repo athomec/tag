@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23">
+  <g id="menu-icon2" transform="translate(0.277)">
+    <path id="Path_27" data-name="Path 27" d="M0,0H23V23H0Z" transform="translate(-0.277)" fill="none"/>
+    <g id="Group_17" data-name="Group 17" transform="translate(2.723 2)">
+      <path id="Path_28" data-name="Path 28" d="M18.22,3.384,16.836,2,15.452,3.384,14.069,2,12.685,3.384,11.3,2,9.918,3.384,8.534,2,7.151,3.384,5.767,2V14.914H3v2.767a2.763,2.763,0,0,0,2.767,2.767H16.836A2.763,2.763,0,0,0,19.6,17.681V2Zm-.461,14.3a.922.922,0,0,1-1.845,0V14.914h-8.3V4.767H17.758Z" transform="translate(-3 -2)" fill="#999"/>
+      <rect id="Rectangle_80" data-name="Rectangle 80" width="5.498" height="2.356" transform="translate(5.194 4.439)" fill="#999"/>
+      <rect id="Rectangle_81" data-name="Rectangle 81" width="1.571" height="2.356" transform="translate(12.263 4.439)" fill="#999"/>
+      <rect id="Rectangle_82" data-name="Rectangle 82" width="5.498" height="1.571" transform="translate(5.194 7.581)" fill="#999"/>
+      <rect id="Rectangle_83" data-name="Rectangle 83" width="1.571" height="1.571" transform="translate(12.263 7.581)" fill="#999"/>
+    </g>
+  </g>
+</svg>

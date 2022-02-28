@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="31" viewBox="0 0 31 31">
+  <g id="icon-run" transform="translate(-34 -392)">
+    <circle id="Ellipse_4" data-name="Ellipse 4" cx="15.5" cy="15.5" r="15.5" transform="translate(34 392)" fill="#51a6ab"/>
+    <g id="directions_run_black_24dp" transform="translate(38 395)">
+      <path id="Path_67" data-name="Path 67" d="M0,0H24V24H0Z" fill="none"/>
+      <path id="Path_68" data-name="Path 68" d="M13.49,5.48a2,2,0,1,0-2-2A2.006,2.006,0,0,0,13.49,5.48Zm-3.6,13.9,1-4.4,2.1,2v6h2v-7.5l-2.1-2,.6-3a7.322,7.322,0,0,0,5.5,2.5v-2a4.919,4.919,0,0,1-4.3-2.4l-1-1.6a2.062,2.062,0,0,0-1.7-1c-.3,0-.5.1-.8.1l-5.2,2.2v4.7h2V9.58l1.8-.7-1.6,8.1-4.9-1-.4,2Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>

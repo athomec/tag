@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="32" viewBox="0 0 28 32">
+  <g id="icon-danger" transform="translate(-410 -729)">
+    <g id="注意マークのフリーアイコン" transform="translate(411 706.641)">
+      <path id="Path_61" data-name="Path 61" d="M24.805,46.009,14.771,28.628a2.538,2.538,0,0,0-4.4,0L.34,46.008a2.538,2.538,0,0,0,2.2,3.808h20.07a2.538,2.538,0,0,0,2.2-3.807Zm-12.233.948a1.572,1.572,0,1,1,1.571-1.572A1.572,1.572,0,0,1,12.573,46.957Zm.968-5.03a.968.968,0,0,1-1.937,0L11,34.82a1.572,1.572,0,1,1,3.143,0Z" transform="translate(0)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_136" data-name="Rectangle 136" width="28" height="32" transform="translate(410 729)" fill="none"/>
+  </g>
+</svg>

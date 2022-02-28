@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="icon-bar-code" transform="translate(-43 -427)">
+    <g id="qr_code_black_24dp" transform="translate(43 427)">
+      <g id="Group_1" data-name="Group 1">
+        <rect id="Rectangle_45" data-name="Rectangle 45" width="30" height="30" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_7" data-name="Group 7" transform="translate(42.165 420.882)">
+      <rect id="Rectangle_55" data-name="Rectangle 55" width="1.658" height="16.611" transform="translate(4.29 13.118)" fill="#666"/>
+      <rect id="Rectangle_56" data-name="Rectangle 56" width="1.658" height="16.611" transform="translate(9.86 13.118)" fill="#666"/>
+      <rect id="Rectangle_57" data-name="Rectangle 57" width="1.658" height="16.611" transform="translate(25.839 13.118)" fill="#666"/>
+      <rect id="Rectangle_58" data-name="Rectangle 58" width="0.597" height="16.611" transform="translate(7.605 13.118)" fill="#666"/>
+      <rect id="Rectangle_59" data-name="Rectangle 59" width="0.597" height="16.611" transform="translate(13.458 13.118)" fill="#666"/>
+      <rect id="Rectangle_60" data-name="Rectangle 60" width="0.597" height="16.611" transform="translate(15.058 13.118)" fill="#666"/>
+      <rect id="Rectangle_62" data-name="Rectangle 62" width="2.254" height="16.611" transform="translate(20.535 13.118)" fill="#666"/>
+      <rect id="Rectangle_63" data-name="Rectangle 63" width="2.658" height="16.611" transform="translate(17.015 13.118)" fill="#666"/>
+      <rect id="Rectangle_64" data-name="Rectangle 64" width="0.597" height="16.611" transform="translate(23.651 13.118)" fill="#666"/>
+    </g>
+  </g>
+</svg>

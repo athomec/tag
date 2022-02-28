@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="user" transform="translate(-396 -1200)">
+    <rect id="Rectangle_138" data-name="Rectangle 138" width="60" height="60" transform="translate(396 1200)" fill="#7accd1"/>
+    <g id="person_black_24dp" transform="translate(406.255 1209.255)">
+      <path id="Path_82" data-name="Path 82" d="M0,0H42V42H0Z" fill="none"/>
+      <path id="Path_83" data-name="Path 83" d="M18.085,18.085a7.043,7.043,0,1,0-7.043-7.043A7.041,7.041,0,0,0,18.085,18.085Zm0,3.521C13.384,21.606,4,23.966,4,28.649V32.17H32.17V28.649C32.17,23.966,22.786,21.606,18.085,21.606Z" transform="translate(2.915 2.915)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

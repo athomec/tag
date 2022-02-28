@@ -1,0 +1,20 @@
+<svg id="icon-qr-code-gray" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Group_1" data-name="Group 1">
+    <rect id="Rectangle_45" data-name="Rectangle 45" width="30" height="30" fill="none"/>
+  </g>
+  <g id="Group_3" data-name="Group 3" transform="translate(3.875 3.875)">
+    <g id="Group_2" data-name="Group 2">
+      <path id="Path_4" data-name="Path 4" d="M3,13.333H13.333V3H3Zm2.583-7.75H10.75V10.75H5.583Z" transform="translate(-3 -3)" fill="#666"/>
+      <path id="Path_5" data-name="Path 5" d="M3,23.333H13.333V13H3Zm2.583-7.75H10.75V20.75H5.583Z" transform="translate(-3 -1.083)" fill="#666"/>
+      <path id="Path_6" data-name="Path 6" d="M13,3V13.333H23.333V3Zm7.75,7.75H15.583V5.583H20.75Z" transform="translate(-1.083 -3)" fill="#666"/>
+      <rect id="Rectangle_46" data-name="Rectangle 46" width="2" height="2" transform="translate(20.125 20.125)" fill="#666"/>
+      <rect id="Rectangle_47" data-name="Rectangle 47" width="2" height="2" transform="translate(12.507 12.507)" fill="#666"/>
+      <rect id="Rectangle_48" data-name="Rectangle 48" width="3" height="3" transform="translate(14.378 14.378)" fill="#666"/>
+      <rect id="Rectangle_49" data-name="Rectangle 49" width="2" height="3" transform="translate(12.507 17.125)" fill="#666"/>
+      <rect id="Rectangle_50" data-name="Rectangle 50" width="3" height="2" transform="translate(14.378 20.125)" fill="#666"/>
+      <rect id="Rectangle_51" data-name="Rectangle 51" width="3" height="3" transform="translate(17.125 17.125)" fill="#666"/>
+      <rect id="Rectangle_52" data-name="Rectangle 52" width="3" height="2" transform="translate(17.125 12.507)" fill="#666"/>
+      <rect id="Rectangle_53" data-name="Rectangle 53" width="2" height="3" transform="translate(20.125 14.378)" fill="#666"/>
+    </g>
+  </g>
+</svg>

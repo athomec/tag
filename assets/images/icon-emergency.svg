@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="icon-emergency" transform="translate(-38 -194)">
+    <rect id="Rectangle_96" data-name="Rectangle 96" width="24" height="24" transform="translate(38 194)" fill="none"/>
+    <g id="パトランプのフリーアイコン" transform="translate(39.002 195.945)">
+      <path id="Path_36" data-name="Path 36" d="M127.75,164.363h11.02v-4.978a5.51,5.51,0,1,0-11.02,0Zm3.184-8.995a4.656,4.656,0,0,1,.831-.379.357.357,0,1,1,.23.676,3.918,3.918,0,0,0-.7.32h0a.357.357,0,0,1-.359-.618Zm-2.317,4.017a4.624,4.624,0,0,1,.767-2.554.357.357,0,0,1,.6.394,3.9,3.9,0,0,0-.648,2.16v3.754a.357.357,0,1,1-.714,0v-3.754Z" transform="translate(-122.262 -148.568)" fill="#51a6ab"/>
+      <path id="Path_37" data-name="Path 37" d="M110.853,424.656H98.064a.408.408,0,0,0-.408.408V427.1h13.605v-2.041A.408.408,0,0,0,110.853,424.656Z" transform="translate(-93.461 -407.716)" fill="#51a6ab"/>
+      <path id="Path_38" data-name="Path 38" d="M245.221,32.816l.139-2.472h-1l.139,2.472Z" transform="translate(-233.861 -30.344)" fill="#51a6ab"/>
+      <path id="Path_39" data-name="Path 39" d="M119.889,61.038l-1.116-2.21-.867.5,1.357,2.072Z" transform="translate(-112.841 -57.604)" fill="#51a6ab"/>
+      <path id="Path_40" data-name="Path 40" d="M28.469,149.147l2.21,1.116.362-.626-2.072-1.356Z" transform="translate(-27.246 -143.214)" fill="#51a6ab"/>
+      <path id="Path_41" data-name="Path 41" d="M0,275.719l2.472-.139v-.723L0,274.719Z" transform="translate(0 -264.22)" fill="#51a6ab"/>
+      <path id="Path_42" data-name="Path 42" d="M454.454,274.857v.723l2.472.139v-1Z" transform="translate(-434.929 -264.22)" fill="#51a6ab"/>
+      <path id="Path_43" data-name="Path 43" d="M425.728,148.281l-2.072,1.356.362.626,2.21-1.116Z" transform="translate(-405.455 -143.214)" fill="#51a6ab"/>
+      <path id="Path_44" data-name="Path 44" d="M349.92,59.328l-.866-.5-1.116,2.21.626.361Z" transform="translate(-332.99 -57.604)" fill="#51a6ab"/>
+    </g>
+  </g>
+</svg>
