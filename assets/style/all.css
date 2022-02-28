@@ -13494,13 +13494,17 @@ input::placeholder {
         -ms-flex-direction: column;
             flex-direction: column;
     color: #999;
-    padding: 0 30px; }
+    padding: 0 30px;
+    /*ipnone6*/ }
     @media (max-width: 768px) {
       .nav .nav-link {
         padding: 0 15px; } }
     @media (max-width: 576px) {
       .nav .nav-link {
         padding: 0 13px; } }
+    @media (max-width: 375px) {
+      .nav .nav-link {
+        padding: 0 10px; } }
     .nav .nav-link:hover {
       color: #333; }
       .nav .nav-link:hover img {
@@ -13707,7 +13711,11 @@ input::placeholder {
     height: 115px;
     margin-bottom: 0;
     background: url("../images/title.svg") no-repeat center;
-    text-indent: -9999px; }
+    text-indent: -9999px;
+    background-size: contain; }
+    @media (max-width: 576px) {
+      .wrapper[data-bg="index"] h1 {
+        height: 100px; } }
   .wrapper[data-bg="index"] footer {
     position: absolute;
     left: 0;
