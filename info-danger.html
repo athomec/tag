@@ -22,15 +22,19 @@
 
 <body>
 	<div class="wrapper">
-		<header class="d-flex justify-content-between">
-			<button class="btn" data-bs-toggle="offcanvas" data-bs-target="#side-menu"><img src="./assets/images/icon-menu.svg" alt="選單icon"></button>
-			<button class="btn btn-dark-primary-dark-color d-inline-block d-md-none p-1 ms-2 ms-md-3 me-2 mt-1">
-				<img src="./assets/images/icon-qrcode.svg" alt="qrcode">
-			</button>
+		<header>
+			<div class="container d-flex justify-content-between">
+				<button class="btn ps-0" data-bs-toggle="offcanvas" data-bs-target="#side-menu"><img
+						src="./assets/images/icon-menu.svg" alt="選單icon"></button>
+				<button class="btn btn-dark-primary-dark-color d-inline-block d-md-none p-1 ms-2 ms-md-3 mt-1">
+					<img src="./assets/images/icon-qrcode.svg" alt="qrcode">
+				</button>
+			</div>
 		</header>
 
 		<!-----側邊選單開始----->
-		<div class="side-menu offcanvas offcanvas-start bg-primary-darken-color" tabindex="-1" id="side-menu" aria-labelledby="offcanvasExampleLabel">
+		<div class="side-menu offcanvas offcanvas-start bg-primary-darken-color" tabindex="-1" id="side-menu"
+			aria-labelledby="offcanvasExampleLabel">
 			<div class="offcanvas-body p-0">
 				<div class="user primary-darken-color bg-white">
 					<button class="btn user-close" data-bs-dismiss="offcanvas" aria-label="Close">
@@ -48,16 +52,16 @@
 						</a>
 					</li>
 					<li>
-						<a href="#" target="_blank" class="icon-list-item py-3 px-4 link-white">
+						<a href="logout.html" target="_blank" class="icon-list-item py-3 px-4 link-white">
 							<img src="./assets/images/icon-logout.svg" alt="登出icon">
 							<p>登出</p>
 						</a>
 					</li>
 				</ul>
 			</div>
-		  </div>
-	<!-----側邊選單結束----->
-	<div class="top">
+		</div>
+		<!-----側邊選單結束----->
+		<div class="top">
 	<div class="container">
 		<h1 class="top-title">物質危害資訊</h1>
 		<div class="text-center">
@@ -180,11 +184,12 @@
 			</li>
 		  </ul>
 		  <!-----主選單結束----->
-</div>
+	</div>
 	<!-- SCRIPTS -->
 	<script src="assets/js/jquery-3.3.1.min.js"></script>
 	<script src="assets/js/bootstrap.bundle.js"></script>
 	<script src="assets/js/script.js"></script>
 	<!--自訂JS-->
 </body>
+
 </html>
